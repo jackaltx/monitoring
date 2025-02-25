@@ -2,9 +2,9 @@
 
 A comprehensive monitoring solution that integrates metrics and log collection using Telegraf, InfluxDB, Alloy, and Loki. This collection provides roles for deploying both logging and metrics collection infrastructure.
 
-## What is softi ?
+## What is solti ?
 
-Systems Oriented Laboratory Testing & Integration (softi) is a suite 
+Systems Oriented Laboratory Testing & Integration (solti) is a suite 
 of ansible collections that can be used to define and test a networked 
 laboratory you would find in most small labs. Entropy is real. The project emphasizes methodical testing, system behavior analysis, and component integration.  
 
