@@ -1,4 +1,4 @@
-# SOFTI Monitoring Collection
+# SOLTI Monitoring Collection
 
 A comprehensive monitoring solution that integrates metrics and log collection using Telegraf, InfluxDB, Alloy, and Loki. This collection provides roles for deploying both logging and metrics collection infrastructure.
 
